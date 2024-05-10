@@ -1,1 +1,21 @@
-[]
+[
+    {
+        "name": "sigmacell-anarchydrive",
+        "friendlyName": "Anarchy Drive",
+        "description": "A shared drive for windows96 users",
+        "author": "Sigmacell",
+        "category": "entertainment",
+        "version": 2,
+        "feature_requirements": [],
+        "installedSize": 3602,
+		"downloadSize": 2127,
+        "min_os_version": 300000,
+        "max_os_version": 400000,
+        "depends": [],
+        "iconFiles": {
+            "32x32": "$REPO_PATH$/dist/a/anarchydrive/32x32.png",
+            "16x16": "$REPO_PATH$/dist/a/anarchydrive/16x16.png"
+        },
+        "packageRoot": "$REPO_PATH$/dist/a/anarchydrive"
+    }
+]
